@@ -11,7 +11,7 @@ public class day01_Ex02 {
 		
 		return max;
 	}
-	static int min4(int a, int b, int c, int d) {	//4개의 값을 입력받아 최댓값을 구하는 예제
+	static int min4(int a, int b, int c, int d) {	//4개의 값을 입력받아 최소값을 구하는 예제
 		
 		int min = a;
 		if(b<min) min = b;
@@ -20,7 +20,7 @@ public class day01_Ex02 {
 		
 		return min;
 	}
-	static int min3(int a, int b, int c) {	//4개의 값을 입력받아 최댓값을 구하는 예제
+	static int min3(int a, int b, int c) {	//3개의 값을 입력받아 최소값을 구하는 예제
 		
 		int min = a;
 		if(b<min) min = b;
