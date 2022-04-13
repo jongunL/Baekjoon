@@ -38,7 +38,8 @@ public class Baekjjon1065 {
 				int one = i%10;				
 				if((hun-ten)==(ten-one)) cnt++;
 			}
-
+ 
+			
 		}
 		
 		return cnt;
