@@ -19,7 +19,6 @@ public class Baekjoon2443 {
 			System.out.println();
 		}
 
-
 	}
 
 }
